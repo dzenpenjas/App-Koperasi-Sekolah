@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi Sekolah",
+  "description": "Sistem Informasi Manajemen Koperasi Sekolah berbasis PWA dan Offline First dengan IndexedDB dan arsitektur modular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

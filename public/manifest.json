@@ -1,0 +1,17 @@
+{
+  "name": "Koperasi Sekolah",
+  "short_name": "KopSek",
+  "description": "Sistem Informasi Manajemen Koperasi Sekolah berbasis PWA dan Offline First",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#047857",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

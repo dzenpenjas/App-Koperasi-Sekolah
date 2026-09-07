@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#0f766e" />
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#f59e0b" stroke-width="12" opacity="0.4" />
+  <!-- Graduation / School emblem cap & cooperative store shield -->
+  <path d="M256 100 L380 170 L256 240 L132 170 Z" fill="#fef3c7" />
+  <path d="M340 195 L340 270 Q340 310 256 340 Q172 310 172 270 L172 195 L256 240 Z" fill="#f59e0b" opacity="0.9" />
+  <!-- Book / Cooperative pages -->
+  <path d="M160 360 Q256 320 256 380 Q256 320 352 360 L352 420 Q256 380 256 430 Q256 380 160 420 Z" fill="#ffffff" />
+  <circle cx="256" cy="245" r="28" fill="#0f766e" />
+  <!-- Scales of balance / leaf representing cooperative -->
+  <path d="M246 235 L266 235 M256 225 L256 265" stroke="#ffffff" stroke-width="5" stroke-linecap="round" />
+</svg>
